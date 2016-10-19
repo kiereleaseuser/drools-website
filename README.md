@@ -2,6 +2,7 @@ Developing Drools and jBPM
 ==========================
 
 test 01
+test 02
 
 **If you want to build or contribute to a droolsjbpm project, [read this document](https://github.com/droolsjbpm/droolsjbpm-build-bootstrap/blob/master/README.md).**
 
